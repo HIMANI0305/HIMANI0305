@@ -6,7 +6,7 @@ I'm an **IT Student** passionate about Data Structures & Algorithms (DSA), full-
 
 ### 🚀 What I'm Up To
 * 🎓 **Current Focus:** Deepening my skills in **Java** and **JavaScript** for both competitive programming and web development.
-* 💡 **Projects Highlight:** I enjoy tackling problems on LeetCode (check out **`JavaScript_Leetcode`** and **`leetcode_DSA`**) and building functional web apps like my **`ToDoListApp`** (C\#).
+* 💡 **Projects Highlight:** I enjoy tackling problems on LeetCode (check out **`JavaScript_Leetcode`** and **`leetcode_DSA`**) and building functional web apps like my **`ToDoListApp`** (C\#), **`QuickBlog`** (MERN Stack) .
 * 🤝 **Looking to Collaborate:** On projects related to MERN stack development or open-source contributions focused on educational tools.
 * 📫 **Connect with me:** `deshmukhhimani1@gmail.com`
 
