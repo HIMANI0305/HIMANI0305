@@ -27,10 +27,6 @@ I am a passionate **IT Student** and **Software Engineering Intern** at **Casepo
 
 ### 📊 Coding Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HIMANI0305&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANI0305&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
 
 > **LeetCode Profile:** [Deshmukh_Himani](https://leetcode.com/u/Deshmukh_Himani/)  
 > *Check out my 50-day streak and 130+ solved problems!*
