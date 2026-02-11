@@ -1,16 +1,16 @@
 # Hi there! I'm Himani Deshmukh 👋
 
-### 🚀 .NET Developer Intern @ Casepoint | Full-Stack Enthusiast | Hackathon Finalist
+### 🚀 .NET Developer Intern @ Casepoint | Hackathon Finalist | Problem Solver
 
-I am an **IT Student** and aspiring **Software Engineer** currently gaining professional experience as a **.NET Developer Intern**. I enjoy building efficient backend systems with .NET and creating interactive frontends with the MERN stack.
+I am a passionate **IT Student** and **Software Engineering Intern** at **Casepoint**. I specialize in building robust backend systems with **.NET MVC** and **PostgreSQL**, while maintaining a strong foundation in **Data Structures & Algorithms**.
 
 ---
 
-### 💼 Professional Experience & Highlights
-- 🏢 **Internship:** Currently working at **Casepoint**, focusing on **.NET MVC, Web APIs, and PostgreSQL**.
-- 🏆 **Odoo Hackathon:** Successfully reached the **Final Round** of the Odoo Hackathon.
-- 💡 **SIH:** Active participant in **Smart India Hackathon**, solving real-world challenges.
-- 🛠️ **Technical Mastery:** Working with advanced concepts like **Filters, Unit Testing, and OOPS** in a corporate environment.
+### 💼 Professional Journey & Achievements
+- 🏢 **Current Role:** .NET Developer Intern at **Casepoint** — working on **MVC, Web APIs, Filters, and Unit Testing**.
+- 🏆 **Odoo Hackathon:** Proud **National Finalist**.
+- 💡 **SIH:** Active participant in **Smart India Hackathon**.
+- 🧠 **LeetCode:** **130+ Problems Solved** | 50 Days Badge 2025 winner.
 
 ---
 
@@ -18,31 +18,35 @@ I am an **IT Student** and aspiring **Software Engineer** currently gaining prof
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | .NET MVC, Web API, Node.js, C#, Java |
+| **Backend** | **.NET MVC, Web API**, C#, Java, Node.js |
 | **Frontend** | React, JavaScript (jQuery), HTML5, CSS3, Bootstrap |
-| **Database** | PostgreSQL, MongoDB, DBMS |
-| **Tools** | Git/GitHub (Version Control), Unit Testing |
-| **Concepts** | DSA, OOPS, MVC Architecture, REST APIs |
+| **Database** | **PostgreSQL**, MongoDB, SQL Server |
+| **Tools & Skills** | Git, Unit Testing, DSA, OOPS, RESTful Services |
 
 ---
 
-### 📂 Key Projects
-* **[contactManagementApp](https://github.com/HIMANI0305/contactManagementApp)** - C# based management system.
-* **[OdooHackathon](https://github.com/HIMANI0305/OdooHackathon)** - National level hackathon project.
-* **[QUICKBLOG](https://github.com/HIMANI0305/QUICKBLOG)** - Full-stack MERN application.
-* **[leetcode_DSA](https://github.com/HIMANI0305/leetcode_DSA)** - Solved problems focusing on logic and efficiency.
+### 📊 Coding Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HIMANI0305&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANI0305&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+> **LeetCode Profile:** [Deshmukh_Himani](https://leetcode.com/u/Deshmukh_Himani/)  
+> *Check out my 50-day streak and 130+ solved problems!*
 
 ---
 
-### 📊 GitHub Stats
-![Himani's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANI0305&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANI0305&layout=compact&theme=radical)
+### 📂 Featured Repositories
+* **[contactManagementApp](https://github.com/HIMANI0305/contactManagementApp)** - Professional-grade C# management application.
+* **[OdooHackathon](https://github.com/HIMANI0305/OdooHackathon)** - Finalist project codebase.
+* **[leetcode_DSA](https://github.com/HIMANI0305/leetcode_DSA)** - Collection of algorithmic solutions in Java/JS.
 
 ---
 
 ### 📫 Connect with me
 - 📧 **Email:** deshmukhhimani1@gmail.com
+- 🔗 **LinkedIn:** [himani-deshmukh-8416b4251](https://www.linkedin.com/in/himani-deshmukh-8416b4251/)
 - 👩‍💻 **Pronouns:** She / Her
-- ⚡ **Fun Fact:** I love the challenge of debugging complex logic and optimizing database queries!
 
 ---
